@@ -1,0 +1,29 @@
+*{ margin: 0;
+    padding: 0;
+}       
+    
+nav{
+    background-color: blueviolet;
+    color:white;
+    height: 70px;
+    font-size: 27px;
+    display:flex;
+    align-items: center;
+    padding: 0 12px;
+
+}
+
+nav ul
+{
+    list-style-type: none;
+}
+.gameContainer{
+    background-color: yellow;
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.container{
+
+}
