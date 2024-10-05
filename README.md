@@ -24,4 +24,4 @@ Welcome to my first game project—**Tic-Tac-Toe**! This project is currently a 
   
 Stay tuned for updates as I progress!
 
-Happy learning!8
+Happy learning!
