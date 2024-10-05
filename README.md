@@ -1,6 +1,3 @@
-Got it! If the project is still in progress and not completed yet, you can make that clear in the README. Here's a revised version:
-
----
 
 # Tic-Tac-Toe Game (Work in Progress) 🚧
 
